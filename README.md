@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Riya!
+
+👩🏻‍🎓 Studied [MCA] at PES University, Bangalore <br/>
+⚡  My passion lies in building robust and scalable applications, with a strong foundation in web development, backend technologies.
+
 
 <!--
 **n-riya/n-riya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
